@@ -1,0 +1,13 @@
+
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Seems to be your first issue. Make sure you are aware of the guidelines to be followed to raise an issue.''first issue'
+        pr-message: 'Seems to be your first PR. Please read github guidelines before making a Pull Request'' first pr'
