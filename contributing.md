@@ -7,3 +7,4 @@
 3. save the file as **[program]_username.py** </br>
    [program] to be replaced by what does the program do.
 4. **Don't** edit/change files of any other user.
+5. Put your files inside "codes inside" folder only
