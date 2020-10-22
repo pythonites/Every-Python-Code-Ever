@@ -1,7 +1,7 @@
 # Every-Python-Code-Ever
 - This is a repository where anyone can put there python codes.
-- Feel free to put your codes here.
 - Codes ranging from very basic to advanced.
 
-## Looking for contributions 
+Check out this **[PYTHON ROADMAP](https://medium.com/@python.learning/the-roadmap-for-python-from-beginner-to-pyguru-48503ca4e794)**
 
+## Looking for Contributions
