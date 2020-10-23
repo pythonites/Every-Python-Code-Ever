@@ -8,6 +8,11 @@ Check out this **[PYTHON ROADMAP](https://medium.com/@python.learning/the-roadma
 ### SECTION 1: BASICS
 1. [Hello world in python](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/codes%20inside/hello_world.py)
 2. [Even Odd number check](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/codes%20inside/Even_Odd_number.py)
+3. [star pattern 1](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/codes%20inside/star_pattern_1.py)  ◣
+4. [star pattern 2](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/codes%20inside/star_pattern_2.py)  ◤
+5. [star pattern 3](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/codes%20inside/star_pattern_3.py)  ◢
+6. [star pattern 4](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/codes%20inside/star_pattern_4.py)  ◥
+
 ### SECTION 2: OOPs
 1. TBD
 2. TBD
