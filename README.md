@@ -16,4 +16,8 @@ Check out this **[PYTHON ROADMAP](https://medium.com/@python.learning/the-roadma
 ### SECTION 2: OOPs
 1. TBD
 2. TBD
-### SECTION 3: PROJECT IDEAS
+
+### SECTION 3: QUICK PROGRAMS
+- [All Python Keywords](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/codes%20inside/all_python_keywords.py)
+
+### SECTION 4: PROJECT IDEAS
