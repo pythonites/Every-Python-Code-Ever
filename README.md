@@ -11,4 +11,4 @@ Check out this **[PYTHON ROADMAP](https://medium.com/@python.learning/the-roadma
 ### SECTION 2: OOPs
 1. TBD
 2. TBD
-### SECTION 3: TBD 
+### SECTION 3: PROJECT IDEAS
