@@ -7,5 +7,5 @@ def print_factors(n):
        if n % i == 0:                      #to check if n is divisible by i
            print(i)                           #printing factors
 
-num = int(input())                    #taking input from user
+num = int(input("enter a number: "))                    #taking input from user
 print_factors(num)                   #calling function
