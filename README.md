@@ -12,7 +12,7 @@ Check out this **[PYTHON ROADMAP](https://medium.com/@python.learning/the-roadma
 4. [star pattern 2](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/codes%20inside/star_pattern_2.py)  ◤
 5. [star pattern 3](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/codes%20inside/star_pattern_3.py)  ◢
 6. [star pattern 4](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/codes%20inside/star_pattern_4.py)  ◥
-7. [factors of a number](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/codes%20inside/factors_of_a_number.py)
+7. [factors of a number](https://github.com/beertocode/Every-Python-Code-Ever/blob/mybranch/codes%20inside/factors_of_a_number.py)
 
 ### SECTION 2: OOPs
 1. TBD
