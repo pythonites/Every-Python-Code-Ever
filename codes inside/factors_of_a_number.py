@@ -9,3 +9,9 @@ def print_factors(n):
 
 num = int(input("enter a number: "))                    #taking input from user
 print_factors(num)                   #calling function
+
+"""
+Points to ponder:
+    1. def keyword
+    2. == operator
+"""
