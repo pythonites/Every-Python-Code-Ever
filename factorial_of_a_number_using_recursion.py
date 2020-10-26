@@ -8,3 +8,10 @@ try:
     print(f"Factorial of {num} is {factorial(num)}") #Recursive Method Answer
 except:
     print("Please enter only integer")
+
+"""
+Points to Ponder:
+1. try-except block
+2. return statement
+3. G-string (line8)
+"""
