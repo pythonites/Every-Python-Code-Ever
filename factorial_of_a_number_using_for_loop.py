@@ -8,3 +8,8 @@ try:
 except:
     print("Please enter only integer")
  
+"""
+Points to Ponder:
+1. try-except block
+2. format string (line7)
+"""
