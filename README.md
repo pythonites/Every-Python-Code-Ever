@@ -23,5 +23,5 @@ Check out this **[PYTHON ROADMAP](https://medium.com/@python.learning/the-roadma
 ### SECTION 3: QUICK PROGRAMS
 - [All Python Keywords](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/codes%20inside/all_python_keywords.py)
 - [Download Youtube Videos](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/codes%20inside/download_videos_from_net.py)
-
+- [QR Code Generator](https://github.com/pythonites/Every-Python-Code-Ever/blob/main/QRgenerator.py)
 ### SECTION 4: PROJECT IDEAS
