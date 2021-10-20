@@ -1,6 +1,6 @@
 #PROGRAM TO FIND IF NUMBER IS EVEN OR ODD
 
-num = int(input("Enter any number: "))
+num = int(input("Enter any number to check: "))
 
 if (num % 2 == 0):
 	print(f"{num} is an EVEN number")
